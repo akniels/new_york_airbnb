@@ -10,3 +10,5 @@ from sklearn.metrics import r2_score, mean_squared_error
 ## Use pandas to read the csv download and view the data
 df = pd.read_csv('./AB_NYC_2019.csv')
 df.head()
+
+

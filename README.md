@@ -2,7 +2,7 @@
 # Predictive Analytics with Airbnb Data
 
 This contains the raw code that was used for an explanation for a Medium Article explaining the data science process. The analysis looks at coorelations found within the data, shows the process of cleaning the data, and highlights the iterative process in data science. 
-=======
+
 # New York Air BnB
 
 Machine learning can be applied to almost any set of data. [Kaggle](https://www.kaggle.com/) is a great resource get free data sources to apply machine learning. This file takes data source from Air bnb in new york and uses predictive analytics to determine the price range of the apartment based on the data. The full data science is showcsed including the data engineering and data cleansing portion.

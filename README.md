@@ -26,4 +26,8 @@ Teras functions were modeled after what was shown in this course
 Grid search was modeled various sources
 * https://medium.com/@erikgreenj/k-neighbors-classifier-with-gridsearchcv-basics-3c445ddeb657
 * https://stats.stackexchange.com/questions/431022/error-while-performing-multiclass-classification-using-gridsearch-cv
+* https://stackoverflow.com/questions/52580023/how-to-get-the-best-estimator-parameters-out-from-pipelined-gridsearch-and-cro
+Outlier analysis was modeled after the following code
+* https://www.kite.com/python/answers/how-to-remove-outliers-from-a-pandas-dataframe-in-python
+* https://machinelearningmastery.com/model-based-outlier-detection-and-removal-in-python/
 

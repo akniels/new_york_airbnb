@@ -20,4 +20,10 @@ The first portion reads in the data and then looks at the null count. It then hi
 
 ### Sources Used
 Some of the functions found in the Udacity Data Science Nanodegree prorgram were used
-@ [Data Science Nanodegree](https://www.udacity.com/course/data-scientist-nanodegree--nd025)
+* [Data Science Nanodegree](https://www.udacity.com/course/data-scientist-nanodegree--nd025)
+Teras functions were modeled after what was shown in this course
+* [Keras with Tensorflow Course](https://www.youtube.com/watch?v=qFJeN9V1ZsI)
+Grid search was modeled various sources
+* https://medium.com/@erikgreenj/k-neighbors-classifier-with-gridsearchcv-basics-3c445ddeb657
+* https://stats.stackexchange.com/questions/431022/error-while-performing-multiclass-classification-using-gridsearch-cv
+

@@ -18,7 +18,7 @@ The first portion reads in the data and then looks at the null count. It then hi
 * Sklearn
 * Pandas
 
-### Sources Used
+### Acknowledgements
 Some of the functions found in the Udacity Data Science Nanodegree prorgram were used
 * [Data Science Nanodegree](https://www.udacity.com/course/data-scientist-nanodegree--nd025)
 Teras functions were modeled after what was shown in this course

@@ -4,8 +4,8 @@
 This contains the raw code that was used for an explanation for a Medium Article explaining the data science process. The analysis looks at coorelations found within the data, shows the process of cleaning the data, and highlights the iterative process in data science. 
 
 # Blog Post
-
-https://datasciencetipsandtricks.com/?p=1
+* Non Technical  - https://datasciencetipsandtricks.com/?p=343
+* Technical - https://datasciencetipsandtricks.com/?p=1
 
 # New York Air BnB
 
